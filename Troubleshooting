@@ -1,1 +1,2 @@
 ## After uploading my code for ESP32 WhatsApp Messaging, I changed the message inside of the brackets from the function void sendMessage(String message), not realizing that this line should remain as is. When I hit upload I got an error message saying variable or field "sendMessage" declared void. I realized that i should've kept that line as is and change the message at the bottom of the code. 
+error sending message with ESP32 (Screenshot 2025-05-21 at 9.50.06 PM.png)
