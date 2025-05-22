@@ -22,7 +22,7 @@ This project demonstrates how to send WhatsApp messages using an ESP32 microcont
    - Install URLEncode library
 
 2. **CallMeBot Registration**
-   - Register your phone number with CallMeBot
+   - Register the phone number with CallMeBot
    - Obtain API key
 
 3. **Hardware Setup**
